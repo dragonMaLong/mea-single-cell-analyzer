@@ -1,16 +1,16 @@
 {
-  "version": "1.1.0",
-  "release_name": "MEA Single Cell Analyzer v1.1.0",
-  "release_url": "https://github.com/dragonMaLong/mea-single-cell-analyzer/releases/tag/v1.1.0",
-  "download_url": "https://github.com/dragonMaLong/mea-single-cell-analyzer/releases/download/v1.1.0/MEA-Single-Cell-Analyzer.exe",
+  "version": "1.1.1",
+  "release_name": "MEA Single Cell Analyzer v1.1.1",
+  "release_url": "https://github.com/dragonMaLong/mea-single-cell-analyzer/releases/tag/v1.1.1",
+  "download_url": "https://github.com/dragonMaLong/mea-single-cell-analyzer/releases/download/v1.1.1/MEA-Single-Cell-Analyzer.exe",
   "gitee_source_name": "Gitee",
-  "gitee_release_url": "https://gitee.com/dragonMalong/mea-single-cell-analyzer/releases/tag/v1.1.0",
-  "gitee_download_url": "https://gitee.com/dragonMalong/mea-single-cell-analyzer/releases/download/v1.1.0/MEA-Single-Cell-Analyzer.exe",
+  "gitee_release_url": "https://gitee.com/dragonMalong/mea-single-cell-analyzer/releases/tag/v1.1.1",
+  "gitee_download_url": "https://gitee.com/dragonMalong/mea-single-cell-analyzer/releases/download/v1.1.1/MEA-Single-Cell-Analyzer.exe",
   "github_source_name": "GitHub",
-  "github_release_url": "https://github.com/dragonMaLong/mea-single-cell-analyzer/releases/tag/v1.1.0",
-  "github_download_url": "https://github.com/dragonMaLong/mea-single-cell-analyzer/releases/download/v1.1.0/MEA-Single-Cell-Analyzer.exe",
+  "github_release_url": "https://github.com/dragonMaLong/mea-single-cell-analyzer/releases/tag/v1.1.1",
+  "github_download_url": "https://github.com/dragonMaLong/mea-single-cell-analyzer/releases/download/v1.1.1/MEA-Single-Cell-Analyzer.exe",
   "asset_name": "MEA-Single-Cell-Analyzer.exe",
-  "sha256": "190a197944c4d0e42b71c7bdc8ae31ef2b3f8caa813ebb000b8072ffc5887668",
-  "published_at": "2026-09-23",
-  "release_notes": "功能更新：ORR 活化能与氧反应级数分析；ECSA 双电层电容、基线斜率及多样品对比；改善积分起点实时拖动和不完整半圈处理；完善 FCD 拖放导入、测试元数据和参数联动。"
+  "sha256": "4e1eeac9a38a422da4b7f48b7d7900d2a1becb85c40d5a56a5ae84af109b66aa",
+  "published_at": "2026-11-02",
+  "release_notes": "新增 ORR / MA 自选点拟合及多样品自选结果对比；修复无稳定平台时极化页面无法查看的问题；改善渗氢电流输入框显示；移除 ECSA 计算图说明浮层。"
 }
